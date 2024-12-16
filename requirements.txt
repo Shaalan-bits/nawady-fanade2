@@ -25,7 +25,7 @@ cytoolz==1.0.1
 dask==2024.12.0
 defusedxml==0.7.1
 diesel==3.0.24
-django_debug_toolbar==2.1
+django_debug_toolbar==1.10
 dl==0.1.0
 docutils==0.15.2
 eventlet==0.26.1
