@@ -20,7 +20,7 @@ pyxlsb==1.0.10
 
 # Data storage and database integration (if used)
 SQLAlchemy==1.2.7
-psycopg2_binary==2.8.4  # PostgreSQL integration
+psycopg2-binary==2.9.3  # PostgreSQL integration (updated version)
 mysql_connector_python==8.0.33 # MySQL connector
 
 # Optional: For image processing
