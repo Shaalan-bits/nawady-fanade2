@@ -22,11 +22,11 @@ mysql-connector-python==8.0.33
 numpy>=1.23.0
 packaging==23.0
 pandas==1.3.5
-Pillow==9.5.0
+Pillow==8.4.0
 pipreqs==0.4.13
 pkgutil-resolve-name==1.3.10
 protobuf==3.20.3
-pyarrow==12.0.0
+pyarrow==10.0.1
 pydeck==0.8.1b1
 pygments==2.17.2
 Pympler==1.1
